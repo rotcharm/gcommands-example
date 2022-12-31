@@ -1,0 +1,19 @@
+{
+  "name": "gcommands-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node src/main.js"
+  },
+  "keywords": [
+    "gcommands",
+    "discord",
+    "bot"
+  ],
+  "author": "sparrowlmao",
+  "license": "ISC",
+  "dependencies": {
+    "gcommands": "^10.0.0",
+  }
+}
