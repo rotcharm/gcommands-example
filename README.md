@@ -18,7 +18,7 @@ An optimized version of the discord bot with a sharder programmed with [gcommand
 
 ## SUPPORT
 
-IF you need help with something, don't hesitate to contact me on my discord server.
+IF you need help with something, don't hesitate to contact me on my [discord server](https://discord.gg/6hFE7A8TPu).
 
 ## SCREENSHOTS
 
